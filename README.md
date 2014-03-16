@@ -1,4 +1,4 @@
-ng Delayed Queue
+Angular Delayed Queue
 ================
 
 Implementation of simple delayed queue for Angular.
